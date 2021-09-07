@@ -23,7 +23,7 @@ def change_res(width,height):
 
 #reading videos
 
-capture = cv2.VideoCapture('Videos\dog.mp4')
+capture = cv2.VideoCapture('..\Videos\dog.mp4')
 #VideoCapture(0) = Webcam input
 
 #capture=cv2.VideoCapture(0)

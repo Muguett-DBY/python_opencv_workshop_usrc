@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img =cv2.imread('Photos/park.jpg')
+img =cv2.imread('../Photos/park.jpg')
 
 blank=np.zeros(img.shape[:2],dtype='uint8')
 
