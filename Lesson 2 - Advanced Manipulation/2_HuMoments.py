@@ -27,6 +27,7 @@ cv2.polylines(heartBlank,heartContours,True,(255),1)
 
 heartMoments = cv2.moments(heartContours[1]) #moment is average of intensities, which allows us to get the center of a contour
 heartHuMoments= cv2.HuMoments(heartMoments)
+
 '''
 https://learnopencv.com/tag/hu-moments/
 
@@ -36,6 +37,7 @@ numbers calculated using central moments that are invariant to
  be invariant to translation, scale, and rotation, and reflection. 
  While the 7th moment’s sign changes for image reflection.
 '''
+
 print("heartHuMoments:\n",heartHuMoments,"\n")
 
 contours, hierarchy = cv2.findContours(edges,cv2.RETR_LIST,cv2.CHAIN_APPROX_NONE)

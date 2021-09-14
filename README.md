@@ -53,3 +53,7 @@ Choose an option:
 - Challenge: Draw the grid lines of the sudoku image by detecting the lines using a Hough transform. Use image sudoku.png from the Github.
 - Challenge: Determine the road lane lines from a given image an drawing line onto them.  Use the provided image lane_img.jpg from the Github as your testing image. 
 
+## Lesson 3 - Challenge
+- Consider `Faces/usrc_all.png` and `Faces/usrc_cropped.png`. Using the face detection in part 1, tune the face detection so that all the faces in the cropped version are accounted for and there are no extra faces in the uncropped version. (Except for the clock. Apparently the clock looks like a face.)
+- The `Faces/distinguish_identity` folder has images of Curtis Stone and Jackson Yee. With as little hard coding as possible, write a program that distinguishes between Curtis and Jackson. (For your convenience, the odd-numbered images are Curtis and the even numbered images are Jackson. Naturally filenames should not be the distinguishing feature.)
+

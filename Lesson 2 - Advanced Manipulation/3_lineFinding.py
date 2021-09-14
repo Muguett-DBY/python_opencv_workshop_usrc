@@ -14,7 +14,7 @@ edges = cv2.Canny(frame,100,200) # This uses the canny edge detector. The 100 an
 
 minLineLength=100
 maxLineGap=10
-edges = cv2.Canny(frame,100,200)
+#edges = cv2.Canny(frame,100,200)
 lines = cv2.HoughLinesP(edges,1,np.pi/180,100,minLineLength,maxLineGap)
 '''
 https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html

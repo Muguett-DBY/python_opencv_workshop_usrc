@@ -6,9 +6,9 @@ img =cv2.imread('../Photos/park.jpg')
 
 blank=np.zeros(img.shape[:2],dtype='uint8')
 
-b,g,r=cv2.split(img)
+b,g,r=cv2.split(img) #split the image into rgb
 
-blue=cv2.merge([b,blank,blank])
+blue=cv2.merge([b,blank,blank]) #merge combines pixel values
 green=cv2.merge([blank,g,blank])
 red=cv2.merge([blank,blank,r])
 
