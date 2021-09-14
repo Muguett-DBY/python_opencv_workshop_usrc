@@ -55,5 +55,4 @@ Choose an option:
 
 ## Lesson 3 - Challenge
 - Consider `Faces/usrc_all.png` and `Faces/usrc_cropped.png`. Using the face detection in part 1, tune the face detection so that all the faces in the cropped version are accounted for and there are no extra faces in the uncropped version. (Except for the clock. Apparently the clock looks like a face.)
-- The `Faces/distinguish_identity` folder has images of Curtis Stone and Jackson Yee. With as little hard coding as possible, write a program that distinguishes between Curtis and Jackson. (For your convenience, the odd-numbered images are Curtis and the even numbered images are Jackson. Naturally filenames should not be the distinguishing feature.)
-
+- For each detected face (including the clock, I guess) use the imageFrame in `Faces/imageframe.png` to enframe the face, putting the resultant images into an output folder.
