@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="280" viewBox="0 0 1080 280" role="img" aria-labelledby="title desc">
+<title id="title">OpenCV Workshop</title><desc id="desc">Images, contours, faces and motion.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101522"/><stop offset="1" stop-color="#202139"/></linearGradient><radialGradient id="glow"><stop stop-color="#93e0c3" stop-opacity=".16"/><stop offset="1" stop-color="#93e0c3" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="280" rx="20" fill="url(#bg)"/>
+<circle cx="910" cy="124" r="210" fill="url(#glow)"/>
+<path d="M743 30v220" stroke="#ffffff" opacity=".1"/>
+<path d="M40 246h660" stroke="#ffffff" opacity=".12"/>
+<rect x="42" y="43" width="4" height="14" rx="2" fill="#93e0c3"/>
+<text x="57" y="55" font-family="Consolas,monospace" font-size="12" letter-spacing="2" fill="#93e0c3">VISION / SMALL EXERCISES</text>
+<text x="40" y="117" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="44" fill="#f5f3fb">OpenCV Workshop</text>
+<text x="42" y="156" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#c5c9db">Images, contours, faces and motion.</text>
+<text x="42" y="214" font-family="Consolas,monospace" font-size="12" letter-spacing="1" fill="#8cbbff">BY CUSTARD</text>
+<g stroke="#93e0c3" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M809 94V68h28M956 68h28v26M984 187v28h-28M837 215h-28v-28M824 140q72-92 144 0-72 92-144 0Z"/><circle cx="896" cy="140" r="26"/></g><circle cx="896" cy="140" r="6" fill="#8cbbff"/>
+</svg>

@@ -1,8 +1,17 @@
-# OpenCV Workshop
+<!-- Project artwork created for this repository. -->
+<p align="center">
+  <img src="./docs/assets/readme-banner.svg" width="100%" alt="OpenCV Workshop — Images, contours, faces and motion." />
+</p>
+
+<h1 align="center">OpenCV Workshop</h1>
+
+<p align="center">
+  <img src="./docs/assets/readme-badges.svg" alt="Workshop archive · Python · OpenCV · Computer vision" />
+</p>
 
 **Small Python exercises for images, contours, faces, and motion tracking.**
 
-`Python` · `OpenCV` · `Computer vision` · `Workshop archive`
+<p align="center"><a href="#explore-the-lessons">Explore the lessons</a> &nbsp; · &nbsp; <a href="#try-an-exercise">Try an exercise</a> &nbsp; · &nbsp; <a href="#credits">Credits</a></p>
 
 ## Explore the lessons
 
