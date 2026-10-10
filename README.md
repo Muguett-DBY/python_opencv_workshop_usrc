@@ -38,3 +38,5 @@ See the [original walkthrough and challenges](docs/WORKSHOP.md) for exercises an
 ## Credits
 
 Workshop material from USRC, based on Jason Dsouza's freeCodeCamp OpenCV tutorial. See [Jason's channel](https://www.youtube.com/jasmcaus) and [Caer](https://github.com/jasmcaus/caer). The original notes credit Unsplash and Pixabay for images/videos and a Kaggle repository for face images; those assets have their own terms.
+
+See [source and rights](docs/SOURCE_AND_RIGHTS.md) before reusing imported exercises or media.

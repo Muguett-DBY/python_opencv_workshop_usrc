@@ -1,0 +1,10 @@
+{
+  "max_blob_bytes": 5242880,
+  "allowed_large_blobs": {
+    "PoseVideos/1.mp4": "5b1aefa006bd205ca21065f8376c6486cdc00fbb",
+    "PoseVideos/2.mp4": "f888880388bd01e43d705340c0aef83c6f8d1ffa",
+    "PoseVideos/3.mp4": "31374635ebf207345747647469ed4ea9defe7af0",
+    "PoseVideos/5.mp4": "971b9a29b438177513f5bac27ad7ddd9823f0e8c",
+    "PoseVideos/6.mp4": "0784f1c02090b671f38ff7670afcac82de0bebcb"
+  }
+}
